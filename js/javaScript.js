@@ -343,7 +343,7 @@ var validateMoves = function(){
               mapLevel.hide();
               easy.show();
               badges.show();
-            },3000)
+            },3500)
         }},500)
 
     }
@@ -556,7 +556,7 @@ var validateMovesmedi = function(){
               mapLevel.hide();
               medium.show();
               badges.show();
-            },3000)
+            },3500)
         }},500)
       }
 
@@ -768,7 +768,7 @@ var validateMovesHard = function(){
             mapLevel.hide();
             hard.show();
             badges.show();
-          },3000)
+          },3500)
         }},500)
     }
     else{
